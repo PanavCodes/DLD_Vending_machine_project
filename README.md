@@ -84,26 +84,6 @@ This project simulates a vending process using **LEDs and push buttons**, demons
 
 ---
 
-## 📂 Folder Structure
-
-
-Vending-Machine-FPGA/
-├── src/
-│ ├── vending_machine.v
-│ ├── vending_top.v
-│ └── button_test.v
-├── quartus_project/
-│ ├── vending_machine.qpf
-│ ├── vending_machine.qsf
-│ ├── pin_assignments.txt
-│ └── output_files/
-├── images/
-│ ├── wiring_diagram.png
-│ └── board_photo.jpg
-└── README.md
-
-
----
 
 ## 🧰 Tools Used
 

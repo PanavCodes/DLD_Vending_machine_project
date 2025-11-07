@@ -86,6 +86,7 @@ This project simulates a vending process using **LEDs and push buttons**, demons
 
 ## 📂 Folder Structure
 
+
 Vending-Machine-FPGA/
 ├── src/
 │ ├── vending_machine.v
